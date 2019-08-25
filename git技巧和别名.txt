@@ -5,4 +5,7 @@
 	git config --global alias.st status
 git commit = git ci
 
-         
+2.last命令
+	git config --global alias.last 'log -l HEAD'
+
+git last 查看最后一次的提交信息
