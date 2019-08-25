@@ -1,0 +1,5 @@
+1.git branch [name] 新建分支
+2.git checkout [name] 切换到分支
+3.git checkout -b [name] 新建name分支并切换到此分支
+4.git branch -d [name] 删除分支
+
