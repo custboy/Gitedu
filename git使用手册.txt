@@ -2,3 +2,8 @@
 2.git add xx/. 添加文件/文件夹到缓冲区
 3.git commit -m "xxxx" 提交并说明
 4.git push origin master 推送到远程仓库的master 分支
+
+5.git log 查看提交历史
+6.git log -p -2 显示每次提交的内容差异，2表示显示最近的两次更新
+
+
