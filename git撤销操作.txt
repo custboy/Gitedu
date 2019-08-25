@@ -1,0 +1,6 @@
+1.git commit --amend 撤销刚刚的提交，重新提交
+	git commit -m "initial commit"
+	git add forgotten_file
+	git commit --amend
+	最终只产生一个提交，第二个提交修正了第一个提交
+
