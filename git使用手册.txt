@@ -1,0 +1,4 @@
+1.git clone 克隆远程仓库到本地
+2.git add xx/. 添加文件/文件夹到缓冲区
+3.git commit -m "xxxx" 提交并说明
+4.git push origin master 推送到远程仓库的master 分支
