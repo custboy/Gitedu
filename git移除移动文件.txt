@@ -1,2 +1,5 @@
 1.git rm 从git 中移除某个文件（从暂存区中移除）然后提交
 3.git mv file_from file_to 移动文件
+  git mv 命令相当于 mv README.txt README
+  		    git rm README.txt
+		    git add README
