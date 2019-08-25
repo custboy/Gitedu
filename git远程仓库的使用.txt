@@ -1,0 +1,7 @@
+1.git remote 列出远程仓库的简短名字
+2.git remote -v 显示仓库克隆地址
+3.git remote add [short name] [url] 添加一个新的远程仓库
+4.git fetch [remote-name] 从远程仓库抓取数据到本地
+5.git remote show [remote-name] 查看远程仓库的详细信息
+6.git remote rename [old_name] [new_name]重命名远程仓库
+7.git remote rm [remote_name] 删除远程仓库  
